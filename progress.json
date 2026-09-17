@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:14:31.962Z",
+  "generated_at": "2026-09-17T08:52:21.216Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -24,6 +24,19 @@
       "path": "problems/0313-numerical-gradient-checking",
       "first_solved_at": "2026-09-16T08:14:30.077Z",
       "last_pushed_at": "2026-09-16T08:14:30.077Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:1358": {
+      "kind": "problem",
+      "id": "1358",
+      "title": "Omitted-Variable Bias",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1358",
+      "path": "problems/1358-omitted-variable-bias",
+      "first_solved_at": "2026-09-17T08:52:18.853Z",
+      "last_pushed_at": "2026-09-17T08:52:18.853Z",
       "language": "python",
       "lines": 49
     }
