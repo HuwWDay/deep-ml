@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:17.262Z",
+  "generated_at": "2026-09-21T10:07:19.345Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -468,6 +468,136 @@
       "last_pushed_at": "2025-10-31T17:10:30.869Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-11-01T14:40:39.069Z",
+      "last_pushed_at": "2025-11-01T14:40:39.069Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2025-11-01T14:51:07.556Z",
+      "last_pushed_at": "2025-11-01T14:51:07.556Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2025-11-01T14:59:36.574Z",
+      "last_pushed_at": "2025-11-01T14:59:36.574Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2025-11-01T15:02:16.458Z",
+      "last_pushed_at": "2025-11-01T15:02:16.458Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2025-11-01T15:20:47.698Z",
+      "last_pushed_at": "2025-11-01T15:20:47.698Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2025-11-01T15:22:12.065Z",
+      "last_pushed_at": "2025-11-01T15:22:12.065Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2025-11-01T15:26:03.482Z",
+      "last_pushed_at": "2025-11-01T15:26:03.482Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:103": {
+      "kind": "problem",
+      "id": "103",
+      "title": "Implement the SELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/103",
+      "path": "problems/0103-implement-the-selu-activation-function",
+      "first_solved_at": "2025-11-01T15:27:42.307Z",
+      "last_pushed_at": "2025-11-01T15:27:42.307Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2025-11-01T21:42:44.227Z",
+      "last_pushed_at": "2025-11-01T21:42:44.227Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:181": {
+      "kind": "problem",
+      "id": "181",
+      "title": "Sampling Distribution of the Mean",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/181",
+      "path": "problems/0181-sampling-distribution-of-the-mean",
+      "first_solved_at": "2025-11-01T21:49:10.216Z",
+      "last_pushed_at": "2025-11-01T21:49:10.216Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
