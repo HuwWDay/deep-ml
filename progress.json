@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:14:09.394Z",
+  "generated_at": "2026-09-21T10:14:11.753Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1469,6 +1469,58 @@
       "last_pushed_at": "2025-11-24T12:33:29.085Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2025-11-25T06:33:00.412Z",
+      "last_pushed_at": "2025-11-25T06:33:00.412Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2025-11-25T19:20:11.233Z",
+      "last_pushed_at": "2025-11-25T19:20:11.233Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2025-11-25T19:23:07.305Z",
+      "last_pushed_at": "2025-11-25T19:23:07.305Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2025-11-25T20:46:28.395Z",
+      "last_pushed_at": "2025-11-25T20:46:28.395Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
