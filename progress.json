@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:13:53.793Z",
+  "generated_at": "2026-09-21T10:13:55.791Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1209,6 +1209,45 @@
       "last_pushed_at": "2025-11-14T08:35:15.887Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2025-11-15T09:28:51.671Z",
+      "last_pushed_at": "2025-11-15T09:28:51.671Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2025-11-15T20:09:31.437Z",
+      "last_pushed_at": "2025-11-15T20:09:31.437Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2025-11-15T20:24:12.745Z",
+      "last_pushed_at": "2025-11-15T20:24:12.745Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
