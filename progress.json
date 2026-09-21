@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:08.579Z",
+  "generated_at": "2026-09-21T10:07:11.029Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -234,6 +234,136 @@
       "last_pushed_at": "2025-10-27T21:17:56.959Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2025-10-28T09:45:42.498Z",
+      "last_pushed_at": "2025-10-28T09:45:42.498Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2025-10-28T13:41:54.912Z",
+      "last_pushed_at": "2025-10-28T13:41:54.912Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-10-28T14:25:50.630Z",
+      "last_pushed_at": "2025-10-28T14:25:50.630Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-10-28T14:27:54.201Z",
+      "last_pushed_at": "2025-10-28T14:27:54.201Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2025-10-28T14:42:05.265Z",
+      "last_pushed_at": "2025-10-28T14:42:05.265Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-10-28T14:43:31.125Z",
+      "last_pushed_at": "2025-10-28T14:43:31.125Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2025-10-28T14:45:16.462Z",
+      "last_pushed_at": "2025-10-28T14:45:16.462Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2025-10-28T14:46:56.284Z",
+      "last_pushed_at": "2025-10-28T14:46:56.284Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2025-10-28T14:56:20.098Z",
+      "last_pushed_at": "2025-10-28T14:56:20.098Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2025-10-28T15:38:31.468Z",
+      "last_pushed_at": "2025-10-28T15:38:31.468Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
