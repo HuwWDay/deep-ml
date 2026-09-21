@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:13:45.668Z",
+  "generated_at": "2026-09-21T10:13:47.514Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1027,6 +1027,84 @@
       "last_pushed_at": "2025-11-10T12:22:35.642Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2025-11-11T09:36:41.447Z",
+      "last_pushed_at": "2025-11-11T09:36:41.447Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:89": {
+      "kind": "problem",
+      "id": "89",
+      "title": "The Pattern Weaver's Code",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/89",
+      "path": "problems/0089-the-pattern-weaver-s-code",
+      "first_solved_at": "2025-11-11T17:18:30.422Z",
+      "last_pushed_at": "2025-11-11T17:18:30.422Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2025-11-11T17:33:03.759Z",
+      "last_pushed_at": "2025-11-11T17:33:03.759Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2025-11-11T17:49:57.044Z",
+      "last_pushed_at": "2025-11-11T17:49:57.044Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:88": {
+      "kind": "problem",
+      "id": "88",
+      "title": "GPT-2 Text Generation",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/88",
+      "path": "problems/0088-gpt-2-text-generation",
+      "first_solved_at": "2025-11-11T18:26:28.778Z",
+      "last_pushed_at": "2025-11-11T18:26:28.778Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2025-11-11T18:43:54.874Z",
+      "last_pushed_at": "2025-11-11T18:43:54.874Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 79 problems · 0 labs · 0 math
+**85** solved · 85 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-11-08 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2025-11-05 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2025-11-08 | [solution](problems/0114-implement-global-average-pooling) |
+| [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2025-11-11 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2025-11-05 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-11-05 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-10-28 | [solution](problems/0042-implement-relu-activation-function) |
@@ -77,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-10-28 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-10-31 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-10-29 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-11-11 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-11-08 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-10-27 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-11-06 | [solution](problems/0007-matrix-transformation) |
@@ -87,10 +89,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2025-11-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2025-11-01 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2025-10-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2025-11-11 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Toy Models of Superposition: Feature Reconstruction](https://www.deep-ml.com/problems/862) | medium | 2026-09-18 | [solution](problems/0862-toy-models-of-superposition-feature-reconstruction) |
+| [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2025-11-11 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2025-11-08 | [solution](problems/0038-implement-adaboost-fit-method) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2025-11-11 | [solution](problems/0094-implement-multi-head-attention) |
 | [Leverage, Studentized Residuals and Cook's Distance](https://www.deep-ml.com/problems/1363) | hard | 2026-09-21 | [solution](problems/1363-leverage-studentized-residuals-and-cook-s-distance) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2025-11-08 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-11-11 | [solution](problems/0085-positional-encoding-calculator) |
 
 ---
 
