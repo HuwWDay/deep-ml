@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:15.097Z",
+  "generated_at": "2026-09-21T10:07:17.262Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -416,6 +416,58 @@
       "last_pushed_at": "2025-10-30T16:16:20.031Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2025-10-31T09:17:39.402Z",
+      "last_pushed_at": "2025-10-31T09:17:39.402Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2025-10-31T09:55:43.839Z",
+      "last_pushed_at": "2025-10-31T09:55:43.839Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2025-10-31T11:57:51.540Z",
+      "last_pushed_at": "2025-10-31T11:57:51.540Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2025-10-31T17:10:30.869Z",
+      "last_pushed_at": "2025-10-31T17:10:30.869Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
