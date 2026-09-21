@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:13:43.688Z",
+  "generated_at": "2026-09-21T10:13:45.668Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1001,6 +1001,32 @@
       "last_pushed_at": "2025-11-09T17:02:57.182Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:199": {
+      "kind": "problem",
+      "id": "199",
+      "title": "Early Stopping Based on Validation Loss Plateau",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/199",
+      "path": "problems/0199-early-stopping-based-on-validation-loss-plateau",
+      "first_solved_at": "2025-11-10T09:15:25.303Z",
+      "last_pushed_at": "2025-11-10T09:15:25.303Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2025-11-10T12:22:35.642Z",
+      "last_pushed_at": "2025-11-10T12:22:35.642Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
