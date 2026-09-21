@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 46 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-10-28 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-10-27 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-10-27 | [solution](problems/0083-dot-product-calculator) |
+| [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2025-11-02 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2025-10-28 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-10-28 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2025-11-01 | [solution](problems/0097-implement-the-elu-activation-function) |
@@ -36,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-10-30 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-10-27 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-10-27 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2025-11-02 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2025-11-01 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-10-27 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-10-28 | [solution](problems/0022-sigmoid-activation-function-understanding) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:19.345Z",
+  "generated_at": "2026-09-21T10:07:21.675Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -598,6 +598,32 @@
       "last_pushed_at": "2025-11-01T21:49:10.216Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2025-11-02T08:38:47.367Z",
+      "last_pushed_at": "2025-11-02T08:38:47.367Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2025-11-02T09:11:30.695Z",
+      "last_pushed_at": "2025-11-02T09:11:30.695Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
