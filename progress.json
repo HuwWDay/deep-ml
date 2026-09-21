@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:27.293Z",
+  "generated_at": "2026-09-21T10:07:29.480Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -778,6 +778,45 @@
       "path": "problems/0019-principal-component-analysis-pca-implementation",
       "first_solved_at": "2025-11-05T20:07:53.064Z",
       "last_pushed_at": "2025-11-05T20:07:53.064Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2025-11-06T09:26:56.000Z",
+      "last_pushed_at": "2025-11-06T09:26:56.000Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2025-11-06T14:37:54.716Z",
+      "last_pushed_at": "2025-11-06T14:37:54.716Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2025-11-06T15:27:32.045Z",
+      "last_pushed_at": "2025-11-06T15:27:32.045Z",
       "language": "python",
       "lines": 24
     }
