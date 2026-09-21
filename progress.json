@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:14:01.140Z",
+  "generated_at": "2026-09-21T10:14:03.038Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1326,6 +1326,84 @@
       "last_pushed_at": "2025-11-17T04:36:46.383Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2025-11-18T09:21:53.959Z",
+      "last_pushed_at": "2025-11-18T09:21:53.959Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:162": {
+      "kind": "problem",
+      "id": "162",
+      "title": "Upper Confidence Bound (UCB) Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/162",
+      "path": "problems/0162-upper-confidence-bound-ucb-action-selection",
+      "first_solved_at": "2025-11-18T12:31:07.457Z",
+      "last_pushed_at": "2025-11-18T12:31:07.457Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2025-11-18T12:34:14.003Z",
+      "last_pushed_at": "2025-11-18T12:34:14.003Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2025-11-18T12:35:19.228Z",
+      "last_pushed_at": "2025-11-18T12:35:19.228Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2025-11-18T15:12:23.146Z",
+      "last_pushed_at": "2025-11-18T15:12:23.146Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:203": {
+      "kind": "problem",
+      "id": "203",
+      "title": "Jensen-Shannon Divergence",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/203",
+      "path": "problems/0203-jensen-shannon-divergence",
+      "first_solved_at": "2025-11-18T15:22:31.687Z",
+      "last_pushed_at": "2025-11-18T15:22:31.687Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
