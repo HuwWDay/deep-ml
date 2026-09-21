@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:08:54.749Z",
+  "generated_at": "2026-09-21T08:33:51.984Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -52,6 +52,19 @@
       "last_pushed_at": "2026-09-18T08:08:54.298Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1363": {
+      "kind": "problem",
+      "id": "1363",
+      "title": "Leverage, Studentized Residuals and Cook's Distance",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1363",
+      "path": "problems/1363-leverage-studentized-residuals-and-cook-s-distance",
+      "first_solved_at": "2026-09-21T08:33:49.462Z",
+      "last_pushed_at": "2026-09-21T08:33:49.462Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
