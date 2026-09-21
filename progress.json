@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:14:14.213Z",
+  "generated_at": "2026-09-21T10:14:16.619Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1534,6 +1534,71 @@
       "last_pushed_at": "2025-11-26T08:39:20.884Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2025-11-27T09:52:58.271Z",
+      "last_pushed_at": "2025-11-27T09:52:58.271Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2025-11-27T10:49:25.092Z",
+      "last_pushed_at": "2025-11-27T10:49:25.092Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:190": {
+      "kind": "problem",
+      "id": "190",
+      "title": "Overlapping Max Pooling",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/190",
+      "path": "problems/0190-overlapping-max-pooling",
+      "first_solved_at": "2025-11-27T15:17:20.221Z",
+      "last_pushed_at": "2025-11-27T15:17:20.221Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:189": {
+      "kind": "problem",
+      "id": "189",
+      "title": "Implement Local Response Normalization (LRN)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/189",
+      "path": "problems/0189-implement-local-response-normalization-lrn",
+      "first_solved_at": "2025-11-27T15:20:41.613Z",
+      "last_pushed_at": "2025-11-27T15:20:41.613Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:191": {
+      "kind": "problem",
+      "id": "191",
+      "title": "PCA Color Augmentation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/191",
+      "path": "problems/0191-pca-color-augmentation",
+      "first_solved_at": "2025-11-27T16:35:21.293Z",
+      "last_pushed_at": "2025-11-27T16:35:21.293Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
