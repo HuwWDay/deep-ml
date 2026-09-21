@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:29.480Z",
+  "generated_at": "2026-09-21T10:07:31.426Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -819,6 +819,58 @@
       "last_pushed_at": "2025-11-06T15:27:32.045Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2025-11-07T09:26:22.715Z",
+      "last_pushed_at": "2025-11-07T09:26:22.715Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-11-07T09:37:40.268Z",
+      "last_pushed_at": "2025-11-07T09:37:40.268Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2025-11-07T10:10:56.685Z",
+      "last_pushed_at": "2025-11-07T10:10:56.685Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2025-11-07T10:16:12.878Z",
+      "last_pushed_at": "2025-11-07T10:16:12.878Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
