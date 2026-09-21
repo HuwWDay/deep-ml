@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:13:55.791Z",
+  "generated_at": "2026-09-21T10:13:58.075Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1248,6 +1248,71 @@
       "last_pushed_at": "2025-11-15T20:24:12.745Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:128": {
+      "kind": "problem",
+      "id": "128",
+      "title": "Dynamic Tanh: Normalization-Free Transformer Activation",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/128",
+      "path": "problems/0128-dynamic-tanh-normalization-free-transformer-activation",
+      "first_solved_at": "2025-11-16T08:04:44.108Z",
+      "last_pushed_at": "2025-11-16T08:04:44.108Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:62": {
+      "kind": "problem",
+      "id": "62",
+      "title": "Implement a Simple RNN with Backpropagation Through Time (BPTT)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/62",
+      "path": "problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt",
+      "first_solved_at": "2025-11-16T08:45:45.960Z",
+      "last_pushed_at": "2025-11-16T08:45:45.960Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2025-11-16T15:37:56.108Z",
+      "last_pushed_at": "2025-11-16T15:37:56.108Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2025-11-16T15:50:57.405Z",
+      "last_pushed_at": "2025-11-16T15:50:57.405Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2025-11-16T15:53:08.211Z",
+      "last_pushed_at": "2025-11-16T15:53:08.211Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
