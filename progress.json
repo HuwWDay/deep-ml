@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:25.643Z",
+  "generated_at": "2026-09-21T10:07:27.293Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -650,6 +650,136 @@
       "last_pushed_at": "2025-11-04T09:44:45.697Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:145": {
+      "kind": "problem",
+      "id": "145",
+      "title": "Adagrad Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/145",
+      "path": "problems/0145-adagrad-optimizer",
+      "first_solved_at": "2025-11-05T09:31:22.140Z",
+      "last_pushed_at": "2025-11-05T09:31:22.140Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2025-11-05T19:10:09.047Z",
+      "last_pushed_at": "2025-11-05T19:10:09.047Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2025-11-05T19:12:54.569Z",
+      "last_pushed_at": "2025-11-05T19:12:54.569Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2025-11-05T19:15:03.018Z",
+      "last_pushed_at": "2025-11-05T19:15:03.018Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2025-11-05T19:18:05.341Z",
+      "last_pushed_at": "2025-11-05T19:18:05.341Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2025-11-05T19:25:13.252Z",
+      "last_pushed_at": "2025-11-05T19:25:13.252Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-11-05T19:34:26.122Z",
+      "last_pushed_at": "2025-11-05T19:34:26.122Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-11-05T19:48:21.254Z",
+      "last_pushed_at": "2025-11-05T19:48:21.254Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2025-11-05T19:53:39.261Z",
+      "last_pushed_at": "2025-11-05T19:53:39.261Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2025-11-05T20:07:53.064Z",
+      "last_pushed_at": "2025-11-05T20:07:53.064Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
