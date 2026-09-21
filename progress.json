@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:13:49.823Z",
+  "generated_at": "2026-09-21T10:13:51.687Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -1118,6 +1118,71 @@
       "last_pushed_at": "2025-11-12T08:19:36.436Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-11-13T06:19:04.520Z",
+      "last_pushed_at": "2025-11-13T06:19:04.520Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2025-11-13T19:30:34.212Z",
+      "last_pushed_at": "2025-11-13T19:30:34.212Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2025-11-13T19:39:49.307Z",
+      "last_pushed_at": "2025-11-13T19:39:49.307Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2025-11-13T19:51:41.869Z",
+      "last_pushed_at": "2025-11-13T19:51:41.869Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2025-11-13T21:18:02.713Z",
+      "last_pushed_at": "2025-11-13T21:18:02.713Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
