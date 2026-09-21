@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:13:40.667Z",
+  "generated_at": "2026-09-21T10:13:43.688Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -975,6 +975,32 @@
       "last_pushed_at": "2025-11-08T17:45:37.439Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2025-11-09T16:52:02.675Z",
+      "last_pushed_at": "2025-11-09T16:52:02.675Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2025-11-09T17:02:57.182Z",
+      "last_pushed_at": "2025-11-09T17:02:57.182Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

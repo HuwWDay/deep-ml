@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 75 problems · 0 labs · 0 math
+**77** solved · 77 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-10-27 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-11-05 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-11-05 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2025-11-09 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-11-01 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-10-28 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-10-27 | [solution](problems/0078-descriptive-statistics-calculator) |
@@ -48,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2025-10-28 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2025-11-01 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2025-10-28 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-11-09 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-10-30 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-11-07 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-10-27 | [solution](problems/0001-matrix-vector-dot-product) |
