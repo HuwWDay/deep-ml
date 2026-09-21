@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:07:31.426Z",
+  "generated_at": "2026-09-21T10:13:40.667Z",
   "items": {
     "problem:1224": {
       "kind": "problem",
@@ -871,6 +871,110 @@
       "last_pushed_at": "2025-11-07T10:16:12.878Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2025-11-08T08:27:59.958Z",
+      "last_pushed_at": "2025-11-08T08:27:59.958Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2025-11-08T16:07:28.594Z",
+      "last_pushed_at": "2025-11-08T16:07:28.594Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2025-11-08T16:13:10.494Z",
+      "last_pushed_at": "2025-11-08T16:13:10.494Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2025-11-08T16:36:45.487Z",
+      "last_pushed_at": "2025-11-08T16:36:45.487Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2025-11-08T16:44:32.722Z",
+      "last_pushed_at": "2025-11-08T16:44:32.722Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:21": {
+      "kind": "problem",
+      "id": "21",
+      "title": "Pegasos Kernel SVM Implementation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/21",
+      "path": "problems/0021-pegasos-kernel-svm-implementation",
+      "first_solved_at": "2025-11-08T16:54:37.811Z",
+      "last_pushed_at": "2025-11-08T16:54:37.811Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:38": {
+      "kind": "problem",
+      "id": "38",
+      "title": "Implement AdaBoost Fit Method",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/38",
+      "path": "problems/0038-implement-adaboost-fit-method",
+      "first_solved_at": "2025-11-08T17:21:46.811Z",
+      "last_pushed_at": "2025-11-08T17:21:46.811Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2025-11-08T17:45:37.439Z",
+      "last_pushed_at": "2025-11-08T17:45:37.439Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
