@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 128 problems · 0 labs · 0 math
+**129** solved · 129 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2025-10-28 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2025-11-04 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2025-11-05 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Generate Normal Samples and Compute Histogram Counts](https://www.deep-ml.com/problems/1130) | easy | 2026-09-30 | [solution](problems/1130-generate-normal-samples-and-compute-histogram-counts) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-11-14 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-11-08 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2025-11-13 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
