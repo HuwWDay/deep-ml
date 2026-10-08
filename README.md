@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**131** solved · 131 problems · 0 labs · 0 math
+**132** solved · 132 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-11-12 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-11-18 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2025-11-09 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-08 | [solution](problems/1232-conv2d-output-shape) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2025-11-01 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-10-28 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2025-11-28 | [solution](problems/0217-derivatives-of-activation-functions) |
