@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**132** solved · 132 problems · 0 labs · 0 math
+**133** solved · 133 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-11-25 | [solution](problems/0087-adam-optimizer) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2025-11-24 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-10-27 | [solution](problems/0079-binomial-distribution-probability) |
+| [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-09 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-10-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-11-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-11-27 | [solution](problems/0111-compute-pointwise-mutual-information) |
